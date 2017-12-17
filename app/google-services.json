@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093281447707",
+    "firebase_url": "https://lista-ea9b2.firebaseio.com",
+    "project_id": "lista-ea9b2",
+    "storage_bucket": "lista-ea9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093281447707:android:dbb0a80c0de1da42",
+        "android_client_info": {
+          "package_name": "com.example.thedeath38.lista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093281447707-m2023cisum603d3mrjhbqj0luardt0nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thedeath38.lista",
+            "certificate_hash": "24d2c1065ca5756fa7bd21c94575c545ce08da9a"
+          }
+        },
+        {
+          "client_id": "1093281447707-h9feobe2em73too2dva5g1cni56e041h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9514PbQcO42flQ8WvOnMdwZULe3ApIDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093281447707-h9feobe2em73too2dva5g1cni56e041h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
